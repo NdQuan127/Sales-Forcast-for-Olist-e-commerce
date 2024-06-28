@@ -8,7 +8,7 @@
 | 2               | 219.9   | 2.1       | 243.2    | 2774  | Loyalists               |
 | 3               | 237.2   | 1.0       | 1142.2   | 2188  | Big Spenders            |
 
-![k-mean](images\kmeanscatter.png)
+![](https://i.imgur.com/sHWRKOG.png)
 
 ## Sales Forecast
 | Model                               | Mape   |
@@ -21,4 +21,4 @@
 | Basic XGboost with holiday          | 51.29  |
 | Tunned XGboost with holiday         | 45.18  |
 
-![fore-cast](images\forecast.png)
+![](https://i.imgur.com/F6wh3iB.jpeg)
